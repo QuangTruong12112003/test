@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello world truong ne
+=======
+Hello tuij magy
+>>>>>>> cce82e23e1daf52d958b1491f097ba179a9f8a6b
+aaaaa
